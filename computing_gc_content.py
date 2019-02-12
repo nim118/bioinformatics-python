@@ -1,30 +1,26 @@
 #reading a file containing data in FASTA format
-f = open("fasta_data.txt", 'r')
-
+f = open("rosalind_gc (2).txt", 'r')
 
 #reading file data into an array
 f_data = f.readlines()
 
-
-
 f.close()
-
-
-print f_data
-
-exit()
-
 
 #intializing dictionary for data 
 dna_strings_gc = {}
 
-count = 0
+index = ''
 #converitng FASTA format to dictionary
 for dna_string in f_data:
 	# print dna_string.strip()
 	if (dna_string.strip().find(">") != -1):
-		dna_strings_gc[dna_string.strip()[1:]] = f_data[count+1].strip()
-	count = count + 1
+		index = dna_string.strip()[1:]
+	else :
+		if index in dna_strings_gc:
+			dna_strings_gc[index] = dna_strings_gc[index] + dna_string.strip()
+		else: 
+			dna_strings_gc[index] = dna_string.strip()
+
 
 #initializing dictionary for count
 dna_strings_gc_counts = {}
