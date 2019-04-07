@@ -34,7 +34,11 @@ def mergeSort(arr):
 			k+=1
 		print arr
 			
-arr = [8,1,2,3,11,4,5,6,7]
+
+
+
+arr = [20,19,35,-18,17,-20,20,1,4,4]
+
 mergeSort(arr)
 
 print arr
