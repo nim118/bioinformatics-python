@@ -1,5 +1,5 @@
 #reading a file containing data in FASTA format
-f = open("rosalind_gc (2).txt", 'r')
+f = open("rosalind_gc.txt", 'r')
 
 #reading file data into an array
 f_data = f.readlines()

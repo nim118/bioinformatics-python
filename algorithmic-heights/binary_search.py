@@ -1,4 +1,4 @@
-f = open("rosalind_bins.txt", "r")
+f = open("binary_search_input.txt", "r")
 
 file_data = f.readlines()
 
