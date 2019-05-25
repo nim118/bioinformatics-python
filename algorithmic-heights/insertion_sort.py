@@ -1,3 +1,4 @@
+# Problem Url : http://rosalind.info/problems/ins/
 def insertionSort(arr, n):
 	count = 0
  	for i in xrange(1,n):
@@ -18,7 +19,7 @@ def insertionSort(arr, n):
 
 
 
-f = open("rosalind_ins.txt", "r")
+f = open("insertion_sort.txt", "r")
 fdata = f.readlines()
 
 n = fdata[0].strip()

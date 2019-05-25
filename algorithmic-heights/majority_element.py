@@ -1,3 +1,5 @@
+#Problem Url http://rosalind.info/problems/maj/
+
 def findMajorityElement(arr):
 	n = len(arr)
 	maxCount = 0
@@ -22,7 +24,7 @@ def findMajorityElement(arr):
 
 
 
-f = open("rosalind_maj.txt", "r")
+f = open("mejority_element_data.txt", "r")
 fdata = f.readlines()
 fdata.pop(0)
 majority_elements = []

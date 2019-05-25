@@ -1,3 +1,4 @@
+#problem url : http://rosalind.info/problems/ini4/
 a = 4479;
 b = 9464;
 adition = 0;

@@ -1,4 +1,5 @@
-f = open("rosalind_deg (1).txt", "r")
+# Problem Url : http://rosalind.info/problems/deg/
+f = open("degree_array_input.txt", "r")
 #f = open("degree_array_input.txt", "r")
 
 f_data = f.readlines()

@@ -1,4 +1,5 @@
-f = open("rosalind_ddeg.txt", "r")
+# Problem Url : http://rosalind.info/problems/ddeg/
+f = open("double_degree_array.txt", "r")
 
 f_data = f.readlines()
 
