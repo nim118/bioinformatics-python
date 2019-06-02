@@ -45,7 +45,6 @@ class Graph:
 if __name__ == "__main__":
 
     # Code to read data from the file
-    #f = open("connected_components.txt", "r")
     f = open("connected_components.txt", "r")
     
 
