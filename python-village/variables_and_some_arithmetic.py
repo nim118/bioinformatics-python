@@ -1,3 +1,4 @@
+# Problem Url : http://rosalind.info/problems/ini2/
 a = 913
 b = 802
 
