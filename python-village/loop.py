@@ -1,11 +1,30 @@
 #problem url : http://rosalind.info/problems/ini4/
-a = 4479;
-b = 9464;
-adition = 0;
+#Code to print the sum of all odd integers from a through b, inclusively.
+#Importing sys to take the command line argument.
+import sys
+class Loop:
 
-for i in range(a, b+1):
-    if i % 2 == 1:
-        adition = adition + i;    
+        def getSumOfOddNumbers(self, a, b):
+                adition = 0
+                for i in range(a, b+1):
+                        if i % 2 == 1:
+                                adition = adition + i
+                return adition
 
 
-print (adition);
+#Driver Code.
+if __name__ == "__main__":
+# Code to read data from the file
+    try:
+        f                  = open(sys.argv[1], "r")
+        f_data             = f.readline()
+        first_line         = f_data.strip().split(" ")
+        a                  = int(first_line[0])
+        b                  = int(first_line[1])
+    except:
+        print ("Invalid File")
+
+#Create Object of class.
+obj = Loop();
+c   = obj.getSumOfOddNumbers(a, b)
+print c
