@@ -27,4 +27,4 @@ if __name__ == "__main__":
 #Create Object of class.
 obj = Loop();
 c   = obj.getSumOfOddNumbers(a, b)
-print c
+print (c)
