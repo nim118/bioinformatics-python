@@ -11,7 +11,7 @@
 | [Installing Python](http://rosalind.info/problems/ini1/) | https://github.com/nim118/bioinformatics-python/blob/master/python-village/import_this_output.txt |
 | [Variables and Some Arithmetic](http://rosalind.info/problems/ini2/) | https://github.com/nim118/bioinformatics-python/blob/master/python-village/variables_and_some_arithmetic.py |
 | [Strings and Lists](http://rosalind.info/problems/ini3/) | https://github.com/nim118/bioinformatics-python/blob/master/python-village/strings_and_lists.py |
-
+| [Conditions and Loops](http://rosalind.info/problems/ini4/) | https://github.com/nim118/bioinformatics-python/blob/master/python-village/loop.py |
 
 ### [Bioinformatics Stronghold](http://rosalind.info/problems/list-view/)
 
