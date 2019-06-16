@@ -1,3 +1,4 @@
+#Problem Url : http://rosalind.info/problems/gc/
 #reading a file containing data in FASTA format
 f = open("rosalind_gc.txt", 'r')
 

@@ -1,3 +1,4 @@
+#Problem Url : http://rosalind.info/problems/hamm/
 f = open("rosalind_hamm.txt", "r")
 
 
