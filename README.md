@@ -19,7 +19,7 @@
 
 | Problems | Solutions  |
 |---|---|
-|   |   |
+| [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) | https://github.com/nim118/bioinformatics-python/blob/master/bioinformatics-stronghold/counting_dna_nucleotides.py |
 
 
 ### [Bioinformatics Armory](http://rosalind.info/problems/list-view/?location=bioinformatics-armory)
