@@ -8,4 +8,4 @@ for letter in dna:
 	rna = rna + letter
 
 
-print rna
+print (rna)
