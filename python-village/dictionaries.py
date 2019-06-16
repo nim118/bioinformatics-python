@@ -11,4 +11,4 @@ for word in string.split():
 
 
 for word in dictionary:
-	print word+' '+str(dictionary[word])
+	print (word+' '+str(dictionary[word]))
