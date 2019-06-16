@@ -12,6 +12,8 @@
 | [Variables and Some Arithmetic](http://rosalind.info/problems/ini2/) | https://github.com/nim118/bioinformatics-python/blob/master/python-village/variables_and_some_arithmetic.py |
 | [Strings and Lists](http://rosalind.info/problems/ini3/) | https://github.com/nim118/bioinformatics-python/blob/master/python-village/strings_and_lists.py |
 | [Conditions and Loops](http://rosalind.info/problems/ini4/) | https://github.com/nim118/bioinformatics-python/blob/master/python-village/loop.py |
+| [Working with Files](http://rosalind.info/problems/ini5/) | https://github.com/nim118/bioinformatics-python/blob/master/python-village/file_ops.py |
+| [Dictionaries](http://rosalind.info/problems/ini6/) | https://github.com/nim118/bioinformatics-python/blob/master/python-village/dictionaries.py |
 
 ### [Bioinformatics Stronghold](http://rosalind.info/problems/list-view/)
 
