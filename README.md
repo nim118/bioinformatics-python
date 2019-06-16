@@ -21,6 +21,10 @@
 |---|---|
 | [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) | https://github.com/nim118/bioinformatics-python/blob/master/bioinformatics-stronghold/counting_dna_nucleotides.py |
 | [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | https://github.com/nim118/bioinformatics-python/blob/master/bioinformatics-stronghold/transcribing_dna_into%20_rna.py |
+| [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) |  |
+| [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | https://github.com/nim118/bioinformatics-python/blob/master/bioinformatics-stronghold/rabbits_and_recurrence_relations.py |
+| [Computing GC Content](http://rosalind.info/problems/gc/) | https://github.com/nim118/bioinformatics-python/blob/master/bioinformatics-stronghold/computing_gc_content.py |
+| [Counting Point Mutations](http://rosalind.info/problems/hamm/) | https://github.com/nim118/bioinformatics-python/blob/master/bioinformatics-stronghold/counting_point_mutations.py |
 
 ### [Bioinformatics Armory](http://rosalind.info/problems/list-view/?location=bioinformatics-armory)
 
