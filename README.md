@@ -20,7 +20,7 @@
 | Problems | Solutions  |
 |---|---|
 | [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) | https://github.com/nim118/bioinformatics-python/blob/master/bioinformatics-stronghold/counting_dna_nucleotides.py |
-| [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) |https://github.com/nim118/bioinformatics-python/blob/master/bioinformatics-stronghold/counting_dna_nucleotides.py|
+| [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | https://github.com/nim118/bioinformatics-python/blob/master/bioinformatics-stronghold/transcribing_dna_into%20_rna.py |
 
 ### [Bioinformatics Armory](http://rosalind.info/problems/list-view/?location=bioinformatics-armory)
 
