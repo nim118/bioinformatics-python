@@ -11,7 +11,7 @@ f.close()
 dna_strings_gc = {}
 
 index = ''
-#converitng FASTA format to dictionary
+#converting FASTA format to dictionary
 for dna_string in f_data:
 	# print dna_string.strip()
 	if (dna_string.strip().find(">") != -1):
@@ -50,5 +50,3 @@ for dna_string in dna_strings_gc:
 print highest_gc_count_dna_string
 print round(highest, 6)
 #find the highest number in the dictionary
-
-
